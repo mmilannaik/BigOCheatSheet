@@ -1,3 +1,3 @@
-BigOCheatSheet
-==============
-[https://www.bigocheatsheet.com/](https://www.bigocheatsheet.com/)
+Collection of projects
+1. NLP project notebook
+2. FastAPI
